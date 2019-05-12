@@ -1,0 +1,5 @@
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLibrary\bin\Release\GolfLibrary.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLibrary\bin\Release\GolfLibrary.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLibrary\obj\Release\GolfLibrary.csprojResolveAssemblyReference.cache
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLibrary\obj\Release\GolfLibrary.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLibrary\obj\Release\GolfLibrary.pdb

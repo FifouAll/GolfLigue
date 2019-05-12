@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ws_sio" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^I:\\2014_2015\\SLAM_4_5\\GolfLigueConsoleETP1\\WSGolf\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^I:\\2014_2015\\SLAM_4_5\\GolfLigueConsoleETP1\\WSGolf\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

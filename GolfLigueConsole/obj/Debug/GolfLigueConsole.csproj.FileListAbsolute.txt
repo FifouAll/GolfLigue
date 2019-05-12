@@ -1,0 +1,17 @@
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\GolfLigueConsole.exe.config
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\GolfLigueConsole.exe
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\GolfLigueConsole.pdb
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\obj\Debug\GolfLigueConsole.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\obj\Debug\GolfLigueConsole.exe
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\obj\Debug\GolfLigueConsole.pdb
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\GolfLibrary.dll
+d:\documents\visual studio 2013\Projects\GolfLigueConsole\GolfLigueConsole\bin\Debug\GolfLibrary.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\bin\Debug\GolfLigueConsole.exe.config
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\bin\Debug\GolfLigueConsole.exe
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\bin\Debug\GolfLigueConsole.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\bin\Debug\GolfLibrary.dll
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\bin\Debug\GolfLibrary.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\obj\Debug\GolfLigueConsole.csprojResolveAssemblyReference.cache
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\obj\Debug\GolfLigueConsole.exe
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\GolfLigueConsole\obj\Debug\GolfLigueConsole.pdb

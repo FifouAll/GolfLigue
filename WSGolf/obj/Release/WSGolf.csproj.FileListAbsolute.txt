@@ -1,0 +1,9 @@
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll.config
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\MySql.Data.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Release\WSGolf.csprojResolveAssemblyReference.cache
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Release\WSGolf.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Release\WSGolf.pdb

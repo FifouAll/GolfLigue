@@ -1,0 +1,27 @@
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\WSGolf.dll.config
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\WSGolf.dll
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\WSGolf.pdb
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\obj\Debug\WSGolf.csprojResolveAssemblyReference.cache
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\obj\Debug\WSGolf.dll
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\obj\Debug\WSGolf.pdb
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\GolfLibrary.dll
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\MySql.Data.dll
+d:\documents\Visual Studio 2013\Projects\GolfLigueConsole\WSGolf\bin\GolfLibrary.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll.config
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.dll
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\MySql.Data.dll
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.pdb
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.csprojResolveAssemblyReference.cache
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.dll
+E:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll.config
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\WSGolf.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\MySql.Data.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\bin\GolfLibrary.pdb
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.csprojResolveAssemblyReference.cache
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.dll
+I:\2014_2015\SLAM_4_5\GolfLigueConsoleETP1\WSGolf\obj\Debug\WSGolf.pdb
